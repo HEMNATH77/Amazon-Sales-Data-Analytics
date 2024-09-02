@@ -26,7 +26,16 @@
 <h3> Count Plot with two Datas </h3>
 <p>A countplot is an effective visualization tool for displaying the frequency of categories within a categorical variable. When used to show the courier status of goods, a countplot can illustrate how many shipments fall into each status category, such as "In Transit," "Delivered," "Pending," or "Returned." Each bar in the countplot represents a different courier status, with the height or length of the bar indicating the number of goods in that status. This provides a clear and immediate overview of the distribution of goods across different courier statuses, making it easier to identify which statuses are most or least common and to monitor the overall progress of shipments. </p>
 <img src="">
-<h3> </h3>
-
-
+<h3> Histogram for Sizes </h3>
+<p>A histogram is a useful tool for visualizing the distribution of numerical data, like the sizes of goods in an Amazon dataset. It represents the frequency of different size ranges by dividing the data into bins (intervals) and showing how many items fall into each bin. In the context of an Amazon dataset, a histogram of product sizes could reveal common size categories, such as whether most goods are small, medium, or large. This can help identify patterns in product dimensions, inform inventory management, and optimize packaging or storage strategies. The shape of the histogram (e.g., skewed, uniform, or normal distribution) can also provide insights into the variety and diversity of products offered on the platform.</p>
+<img src="">
+<h3>Histogram for Category </h3>
+<p>A histogram is typically used for numerical data, but when dealing with categorical data, such as the categories of goods in an Amazon dataset, a bar chart is more appropriate. However, if you consider representing the count of items within each category using a histogram-like approach, it could help visualize the distribution of products across different categories.
+In this context, each bar would represent a specific category (e.g., electronics, clothing, home goods), and the height of the bar would indicate the number of items within that category. This visualization can reveal the most and least common categories of products, helping to understand the distribution and variety of goods offered on Amazon. It can also aid in identifying trends in consumer preferences and inventory distribution.</p>
+<img src="">
+<h3>Pie - Chart for Fulfilment</h3>
+<p>A pie chart is an effective tool for visualizing the proportions of different categories within a dataset, particularly when you want to show how parts contribute to a whole. In the context of an Amazon dataset, a pie chart could be used to illustrate the distribution of fulfillment methods for goods, such as items fulfilled by Amazon (FBA), third-party sellers, or direct shipping from manufacturers.
+Each slice of the pie would represent a different fulfillment method, with the size of the slice corresponding to the proportion of goods fulfilled through that method. This can provide a clear visual understanding of how Amazon manages its logistics, highlighting the dominant fulfillment channels and offering insights into operational strategies and consumer preferences for shipping options. Pie charts are particularly useful when you want to quickly compare the relative sizes of these categories.</p>
+<h3>Scatterplot for Category </h3>
+<P></P>
 
